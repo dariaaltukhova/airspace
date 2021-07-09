@@ -14,7 +14,8 @@ To execute tests from a command line, run
 ```
 mvn clean test
 ```
-To execute tests from IntelliJ IDEA, import the project and clicking `Run` on the test class.
+To execute tests from IntelliJ IDEA, import the project and clicking `Run` on the test class:
+https://github.com/dariaaltukhova/airspace/blob/main/src/test/java/AirspaceLoginChallengeTest.java
 
 ## Results
 
